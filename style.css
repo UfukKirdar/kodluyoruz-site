@@ -1,0 +1,42 @@
+.centered {
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+}
+
+/* .foto{
+    opacity: 0.5;
+} */
+
+.button{
+    width: 200px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.kutu{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.row-kutular {
+    top: 8% ;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+.kutu {
+    flex: 10%;
+    padding: 5px;
+}
+
+.kutular{
+    background: rgb(245, 247, 245);
+}
+
